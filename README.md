@@ -1,6 +1,23 @@
-
-[[_TOC_]]
-
+- [About](#about)
+- [Brief Description](#brief-description)
+- [Sampel Project](#sampel-project)
+  * [Prepare Environment](#prepare-environment)
+  * [Necessary Components](#necessary-components)
+  * [DbContext](#dbcontext)
+  * [TEntity](#tentity)
+  * [DbSet&lt;TEntity&gt;](#dbset-lt-tentity-gt-)
+  * [Design Entity](#design-entity)
+    + [One to Many Relationship](#one-to-many-relationship)
+    + [Many to Many Relationship](#many-to-many-relationship)
+  * [Host](#host)
+  * [Manage Migration](#manage-migration)
+    + [Manually](#manually)
+    + [Programming](#programming)
+    + [Pipeline](#pipeline)
+  * [PostgerSQL Naming convention](#postgersql-naming-convention)
+  * [Insert Data](#insert-data)
+  * [Query Data](#query-data)
+- [Whole Picture](#whole-picture)
 
 # About
 This Wiki is about how to use Entity Framework Core Code-First approach to interact with PostgreSQL database.
