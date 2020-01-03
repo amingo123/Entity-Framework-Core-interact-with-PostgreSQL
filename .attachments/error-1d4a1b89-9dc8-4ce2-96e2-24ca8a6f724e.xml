@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF 8"?>
+<?xml-stylesheet type="text/xsl" href="/styles/Devices.xsl"?>
+<MTConnectError xmlns:m="urn:mtconnect.org:MTConnectDevices:1.4" xmlns="urn:mtconnect.org:MTConnectDevices:1.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mtconnect.org:MTConnectDevices:1.4/schemas/MTConnectDevices_1.4.xsd">
+<Header creationTime="2010 03 12T12:33:01 Z" sender=" MyAgent" version="4.1.10" bufferSize="1310000” instanceId="1383839“ />
+<Errors>
+<Error errorCode="OUT_OF_RANGE">Argument was out of range</Error> 
+<Error errorCode="INVALID_XPATH">Bad path</Error> 
+</Errors>
+</MTConnectError>
