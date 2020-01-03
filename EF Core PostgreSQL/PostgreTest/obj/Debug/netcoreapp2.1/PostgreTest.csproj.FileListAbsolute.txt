@@ -30,3 +30,19 @@ D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\obj\Debug\netcoreapp2.1\Pos
 D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.csproj.CopyComplete
 D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.dll
 D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.pdb
+C:\Users\jeffrey.zhou\Downloads\Entity-Framework-Core-interact-with-PostgreSQL\EF Core PostgreSQL\PostgreTest\bin\Debug\netcoreapp2.1\PostgreTest.deps.json
+C:\Users\jeffrey.zhou\Downloads\Entity-Framework-Core-interact-with-PostgreSQL\EF Core PostgreSQL\PostgreTest\bin\Debug\netcoreapp2.1\PostgreTest.runtimeconfig.json
+C:\Users\jeffrey.zhou\Downloads\Entity-Framework-Core-interact-with-PostgreSQL\EF Core PostgreSQL\PostgreTest\bin\Debug\netcoreapp2.1\PostgreTest.runtimeconfig.dev.json
+C:\Users\jeffrey.zhou\Downloads\Entity-Framework-Core-interact-with-PostgreSQL\EF Core PostgreSQL\PostgreTest\bin\Debug\netcoreapp2.1\PostgreTest.dll
+C:\Users\jeffrey.zhou\Downloads\Entity-Framework-Core-interact-with-PostgreSQL\EF Core PostgreSQL\PostgreTest\bin\Debug\netcoreapp2.1\PostgreTest.pdb
+C:\Users\jeffrey.zhou\Downloads\Entity-Framework-Core-interact-with-PostgreSQL\EF Core PostgreSQL\PostgreTest\bin\Debug\netcoreapp2.1\CompanyName.UserManagement.EFCorePostgre.dll
+C:\Users\jeffrey.zhou\Downloads\Entity-Framework-Core-interact-with-PostgreSQL\EF Core PostgreSQL\PostgreTest\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Hosting.dll
+C:\Users\jeffrey.zhou\Downloads\Entity-Framework-Core-interact-with-PostgreSQL\EF Core PostgreSQL\PostgreTest\bin\Debug\netcoreapp2.1\CompanyName.UserManagement.EFCorePostgre.pdb
+C:\Users\jeffrey.zhou\Downloads\Entity-Framework-Core-interact-with-PostgreSQL\EF Core PostgreSQL\PostgreTest\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Hosting.xml
+C:\Users\jeffrey.zhou\Downloads\Entity-Framework-Core-interact-with-PostgreSQL\EF Core PostgreSQL\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.csprojAssemblyReference.cache
+C:\Users\jeffrey.zhou\Downloads\Entity-Framework-Core-interact-with-PostgreSQL\EF Core PostgreSQL\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.csproj.CoreCompileInputs.cache
+C:\Users\jeffrey.zhou\Downloads\Entity-Framework-Core-interact-with-PostgreSQL\EF Core PostgreSQL\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.AssemblyInfoInputs.cache
+C:\Users\jeffrey.zhou\Downloads\Entity-Framework-Core-interact-with-PostgreSQL\EF Core PostgreSQL\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.AssemblyInfo.cs
+C:\Users\jeffrey.zhou\Downloads\Entity-Framework-Core-interact-with-PostgreSQL\EF Core PostgreSQL\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.csproj.CopyComplete
+C:\Users\jeffrey.zhou\Downloads\Entity-Framework-Core-interact-with-PostgreSQL\EF Core PostgreSQL\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.dll
+C:\Users\jeffrey.zhou\Downloads\Entity-Framework-Core-interact-with-PostgreSQL\EF Core PostgreSQL\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.pdb

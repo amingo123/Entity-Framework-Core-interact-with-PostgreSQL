@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Hexagon.UserManagement.EFCorePostgre\Hexagon.UserManagement.EFCorePostgre.csproj" />
+    <ProjectReference Include="..\CompanyName.UserManagement.EFCorePostgre\CompanyName.UserManagement.EFCorePostgre.csproj" />
   </ItemGroup>
 
   <ItemGroup>

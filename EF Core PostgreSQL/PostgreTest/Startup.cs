@@ -1,4 +1,4 @@
-﻿using Hexagon.UserManagement.EFCorePostgre;
+﻿using CompanyName.UserManagement.EFCorePostgre;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -22,7 +22,7 @@ namespace PostgreTest
         }
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.AddDbContext<UserManagementDbContext>(option => option.UseNpgsql("Server=10.137.114.199;Database=AdminSite;uid=postgres;pwd=Hexagon@2018"));
+            //services.AddDbContext<UserManagementDbContext>(option => option.UseNpgsql("Server=10.137.114.199;Database=AdminSite;uid=postgres;pwd=CompanyName@2018"));
             services.AddDbContext<UserManagementDbContext>(option => option.UseNpgsql("Server=127.0.0.1;Database=AdminSite;uid=sa;pwd=sa"));
         }
 

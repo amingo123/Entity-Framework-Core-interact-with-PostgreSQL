@@ -34,7 +34,7 @@ The important thing to note is that the manual changes that we make to the datab
 - ## Prepare Environment 
 _Before going further, make sure VS2017 was installed and Postgre Server instance was ready._
 
-Create a .Net Core Class Library Project, I named it - Hexagon.UserManagement.EFCorePostgre.
+Create a .Net Core Class Library Project, I named it - CompanyName.UserManagement.EFCorePostgre.
 This project is considered as Data Access Layer which will interact with PostgreSQL database.
  
 ![image.png](/.attachments/image-d5e6204b-f18a-4945-8645-44d2a409f892.png)

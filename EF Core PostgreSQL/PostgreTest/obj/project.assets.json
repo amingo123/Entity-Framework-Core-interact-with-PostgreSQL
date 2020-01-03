@@ -1519,17 +1519,17 @@
           "lib/netcoreapp2.0/_._": {}
         }
       },
-      "Hexagon.UserManagement.EFCorePostgre/1.0.0": {
+      "CompanyName.UserManagement.EFCorePostgre/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
           "Npgsql.EntityFrameworkCore.PostgreSQL": "2.2.0"
         },
         "compile": {
-          "bin/placeholder/Hexagon.UserManagement.EFCorePostgre.dll": {}
+          "bin/placeholder/CompanyName.UserManagement.EFCorePostgre.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Hexagon.UserManagement.EFCorePostgre.dll": {}
+          "bin/placeholder/CompanyName.UserManagement.EFCorePostgre.dll": {}
         }
       }
     }
@@ -4787,15 +4787,15 @@
         "version.txt"
       ]
     },
-    "Hexagon.UserManagement.EFCorePostgre/1.0.0": {
+    "CompanyName.UserManagement.EFCorePostgre/1.0.0": {
       "type": "project",
-      "path": "../Hexagon.UserManagement.EFCorePostgre/Hexagon.UserManagement.EFCorePostgre.csproj",
-      "msbuildProject": "../Hexagon.UserManagement.EFCorePostgre/Hexagon.UserManagement.EFCorePostgre.csproj"
+      "path": "../CompanyName.UserManagement.EFCorePostgre/CompanyName.UserManagement.EFCorePostgre.csproj",
+      "msbuildProject": "../CompanyName.UserManagement.EFCorePostgre/CompanyName.UserManagement.EFCorePostgre.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "Hexagon.UserManagement.EFCorePostgre >= 1.0.0",
+      "CompanyName.UserManagement.EFCorePostgre >= 1.0.0",
       "Microsoft.AspNetCore >= 2.2.0",
       "Microsoft.AspNetCore.Hosting.Abstractions >= 2.2.0",
       "Microsoft.EntityFrameworkCore.Design >= 2.2.2",
@@ -4810,11 +4810,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive - Hexagon\\EF Core PostgreSQL\\PostgreTest\\PostgreTest.csproj",
+      "projectUniqueName": "C:\\Users\\jeffrey.zhou\\Downloads\\Entity-Framework-Core-interact-with-PostgreSQL\\EF Core PostgreSQL\\PostgreTest\\PostgreTest.csproj",
       "projectName": "PostgreTest",
-      "projectPath": "D:\\OneDrive - Hexagon\\EF Core PostgreSQL\\PostgreTest\\PostgreTest.csproj",
+      "projectPath": "C:\\Users\\jeffrey.zhou\\Downloads\\Entity-Framework-Core-interact-with-PostgreSQL\\EF Core PostgreSQL\\PostgreTest\\PostgreTest.csproj",
       "packagesPath": "C:\\Users\\jeffrey.zhou\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive - Hexagon\\EF Core PostgreSQL\\PostgreTest\\obj\\",
+      "outputPath": "C:\\Users\\jeffrey.zhou\\Downloads\\Entity-Framework-Core-interact-with-PostgreSQL\\EF Core PostgreSQL\\PostgreTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4833,8 +4833,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\OneDrive - Hexagon\\EF Core PostgreSQL\\Hexagon.UserManagement.EFCorePostgre\\Hexagon.UserManagement.EFCorePostgre.csproj": {
-              "projectPath": "D:\\OneDrive - Hexagon\\EF Core PostgreSQL\\Hexagon.UserManagement.EFCorePostgre\\Hexagon.UserManagement.EFCorePostgre.csproj"
+            "C:\\Users\\jeffrey.zhou\\Downloads\\Entity-Framework-Core-interact-with-PostgreSQL\\EF Core PostgreSQL\\CompanyName.UserManagement.EFCorePostgre\\CompanyName.UserManagement.EFCorePostgre.csproj": {
+              "projectPath": "C:\\Users\\jeffrey.zhou\\Downloads\\Entity-Framework-Core-interact-with-PostgreSQL\\EF Core PostgreSQL\\CompanyName.UserManagement.EFCorePostgre\\CompanyName.UserManagement.EFCorePostgre.csproj"
             }
           }
         }

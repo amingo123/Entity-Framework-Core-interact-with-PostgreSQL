@@ -1,11 +1,11 @@
-﻿using Hexagon.UserManagement.EFCorePostgre;
+﻿using CompanyName.UserManagement.EFCorePostgre;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore;
-using Hexagon.UserManagement.EFCorePostgre.Entity;
+using CompanyName.UserManagement.EFCorePostgre.Entity;
 using System.Linq;
 using System.Collections.Generic;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Query.Expressions;
@@ -18,7 +18,7 @@ namespace PostgreTest
             CreateWebHostBuilder(args).Build().Run();
 
             var optionsBuilder = new DbContextOptionsBuilder<UserManagementDbContext>();
-            //optionsBuilder.UseNpgsql("Server=10.137.114.199;Database=UserManagement;uid=postgres;pwd=Hexagon@2018");
+            //optionsBuilder.UseNpgsql("Server=10.137.114.199;Database=UserManagement;uid=postgres;pwd=CompanyName@2018");
             optionsBuilder.UseNpgsql("Server=127.0.0.1;Database=AdminSite;uid=sa;pwd=sa");
             using (UserManagementDbContext context = new UserManagementDbContext(optionsBuilder.Options))
             {

@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v2.1": {
       "PostgreTest/1.0.0": {
         "dependencies": {
-          "Hexagon.UserManagement.EFCorePostgre": "1.0.0",
+          "CompanyName.UserManagement.EFCorePostgre": "1.0.0",
           "Microsoft.AspNetCore": "2.2.0",
           "Microsoft.AspNetCore.Hosting.Abstractions": "2.2.0",
           "Microsoft.EntityFrameworkCore.Design": "2.2.2",
@@ -1016,12 +1016,12 @@
       },
       "System.Threading.Tasks.Extensions/4.5.1": {},
       "System.ValueTuple/4.5.0": {},
-      "Hexagon.UserManagement.EFCorePostgre/1.0.0": {
+      "CompanyName.UserManagement.EFCorePostgre/1.0.0": {
         "dependencies": {
           "Npgsql.EntityFrameworkCore.PostgreSQL": "2.2.0"
         },
         "runtime": {
-          "Hexagon.UserManagement.EFCorePostgre.dll": {}
+          "CompanyName.UserManagement.EFCorePostgre.dll": {}
         }
       },
       "Microsoft.Extensions.Hosting/2.1.1.0": {
@@ -1726,7 +1726,7 @@
       "path": "system.valuetuple/4.5.0",
       "hashPath": "system.valuetuple.4.5.0.nupkg.sha512"
     },
-    "Hexagon.UserManagement.EFCorePostgre/1.0.0": {
+    "CompanyName.UserManagement.EFCorePostgre/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
