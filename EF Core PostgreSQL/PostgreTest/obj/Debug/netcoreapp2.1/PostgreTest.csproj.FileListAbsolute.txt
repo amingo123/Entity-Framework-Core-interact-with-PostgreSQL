@@ -1,0 +1,32 @@
+D:\AdminSite\Hexagon.Admin.Api\PostgreTest\bin\Debug\netcoreapp2.1\PostgreTest.deps.json
+D:\AdminSite\Hexagon.Admin.Api\PostgreTest\bin\Debug\netcoreapp2.1\PostgreTest.runtimeconfig.json
+D:\AdminSite\Hexagon.Admin.Api\PostgreTest\bin\Debug\netcoreapp2.1\PostgreTest.runtimeconfig.dev.json
+D:\AdminSite\Hexagon.Admin.Api\PostgreTest\bin\Debug\netcoreapp2.1\PostgreTest.dll
+D:\AdminSite\Hexagon.Admin.Api\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.csproj.CoreCompileInputs.cache
+D:\AdminSite\Hexagon.Admin.Api\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.AssemblyInfoInputs.cache
+D:\AdminSite\Hexagon.Admin.Api\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.AssemblyInfo.cs
+D:\AdminSite\Hexagon.Admin.Api\PostgreTest\bin\Debug\netcoreapp2.1\PostgreTest.pdb
+D:\AdminSite\Hexagon.Admin.Api\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.dll
+D:\AdminSite\Hexagon.Admin.Api\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.pdb
+D:\AdminSite\Hexagon.Admin.Api\PostgreTest\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Hosting.dll
+D:\AdminSite\Hexagon.Admin.Api\PostgreTest\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Hosting.xml
+D:\AdminSite\Hexagon.Admin.Api\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.csprojAssemblyReference.cache
+D:\AdminSite\Hexagon.Admin.Api\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.csproj.CopyComplete
+D:\AdminSite\Hexagon.Admin.Api\PostgreTest\bin\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.dll
+D:\AdminSite\Hexagon.Admin.Api\PostgreTest\bin\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.pdb
+D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\bin\Debug\netcoreapp2.1\PostgreTest.deps.json
+D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\bin\Debug\netcoreapp2.1\PostgreTest.runtimeconfig.json
+D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\bin\Debug\netcoreapp2.1\PostgreTest.runtimeconfig.dev.json
+D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\bin\Debug\netcoreapp2.1\PostgreTest.dll
+D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\bin\Debug\netcoreapp2.1\PostgreTest.pdb
+D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\bin\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.dll
+D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Hosting.dll
+D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\bin\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.pdb
+D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Hosting.xml
+D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.csprojAssemblyReference.cache
+D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.AssemblyInfoInputs.cache
+D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.AssemblyInfo.cs
+D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.csproj.CopyComplete
+D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.dll
+D:\OneDrive - Hexagon\EF Core PostgreSQL\PostgreTest\obj\Debug\netcoreapp2.1\PostgreTest.pdb

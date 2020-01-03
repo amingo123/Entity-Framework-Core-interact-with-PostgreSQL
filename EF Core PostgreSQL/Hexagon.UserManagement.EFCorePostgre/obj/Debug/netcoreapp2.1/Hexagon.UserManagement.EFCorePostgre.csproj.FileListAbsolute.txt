@@ -1,0 +1,21 @@
+D:\AdminSite\Hexagon.Admin.Api\Hexagon.UserManagement.EFCorePostgre\bin\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.deps.json
+D:\AdminSite\Hexagon.Admin.Api\Hexagon.UserManagement.EFCorePostgre\bin\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.dll
+D:\AdminSite\Hexagon.Admin.Api\Hexagon.UserManagement.EFCorePostgre\obj\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.csproj.CoreCompileInputs.cache
+D:\AdminSite\Hexagon.Admin.Api\Hexagon.UserManagement.EFCorePostgre\obj\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.AssemblyInfoInputs.cache
+D:\AdminSite\Hexagon.Admin.Api\Hexagon.UserManagement.EFCorePostgre\obj\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.AssemblyInfo.cs
+D:\AdminSite\Hexagon.Admin.Api\Hexagon.UserManagement.EFCorePostgre\bin\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.runtimeconfig.json
+D:\AdminSite\Hexagon.Admin.Api\Hexagon.UserManagement.EFCorePostgre\bin\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.runtimeconfig.dev.json
+D:\AdminSite\Hexagon.Admin.Api\Hexagon.UserManagement.EFCorePostgre\bin\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.pdb
+D:\AdminSite\Hexagon.Admin.Api\Hexagon.UserManagement.EFCorePostgre\obj\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.dll
+D:\AdminSite\Hexagon.Admin.Api\Hexagon.UserManagement.EFCorePostgre\obj\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.pdb
+D:\AdminSite\Hexagon.Admin.Api\Hexagon.UserManagement.EFCorePostgre\obj\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.csprojAssemblyReference.cache
+D:\OneDrive - Hexagon\EF Core PostgreSQL\Hexagon.UserManagement.EFCorePostgre\bin\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.deps.json
+D:\OneDrive - Hexagon\EF Core PostgreSQL\Hexagon.UserManagement.EFCorePostgre\bin\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.runtimeconfig.json
+D:\OneDrive - Hexagon\EF Core PostgreSQL\Hexagon.UserManagement.EFCorePostgre\bin\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.runtimeconfig.dev.json
+D:\OneDrive - Hexagon\EF Core PostgreSQL\Hexagon.UserManagement.EFCorePostgre\bin\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.dll
+D:\OneDrive - Hexagon\EF Core PostgreSQL\Hexagon.UserManagement.EFCorePostgre\bin\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.pdb
+D:\OneDrive - Hexagon\EF Core PostgreSQL\Hexagon.UserManagement.EFCorePostgre\obj\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hexagon\EF Core PostgreSQL\Hexagon.UserManagement.EFCorePostgre\obj\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.AssemblyInfoInputs.cache
+D:\OneDrive - Hexagon\EF Core PostgreSQL\Hexagon.UserManagement.EFCorePostgre\obj\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.AssemblyInfo.cs
+D:\OneDrive - Hexagon\EF Core PostgreSQL\Hexagon.UserManagement.EFCorePostgre\obj\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.dll
+D:\OneDrive - Hexagon\EF Core PostgreSQL\Hexagon.UserManagement.EFCorePostgre\obj\Debug\netcoreapp2.1\Hexagon.UserManagement.EFCorePostgre.pdb
